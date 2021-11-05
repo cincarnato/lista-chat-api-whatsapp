@@ -8,7 +8,7 @@
 
 4- Pararse en directorio raiz e instalar dependencias: Ejecutar "npm install"
 
-5- Configurar el mensaje a enviar en constante BODY
+5- Configurar el mensaje a enviar en constante BODY del archivo index.js
 
 6- Cargar archivo "lista.csv" con numeros destino
 

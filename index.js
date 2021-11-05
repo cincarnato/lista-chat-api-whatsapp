@@ -10,9 +10,12 @@ const postChatApi = require('./post-chat-api')
 const fs = require('fs')
 const parse = require('csv-parser')
 
+//MENSAJE A ENVIAR => Modificar a gusto
+const BODY = "Hola Querido 3"
+
 async function procesarLista() {
 
-    const BODY = "Hola Querido 3"
+
 
     const CSV_PATH = './lista.csv'
     const fileReadStream = fs.createReadStream(CSV_PATH)
