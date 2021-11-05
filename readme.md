@@ -1,6 +1,6 @@
 ##Instalacion y uso
 
-1- Descargar repositorio
+1- Descargar repositorio: git clone https://github.com/cincarnato/lista-chat-api-whatsapp.git
 
 2- Copiar archivo .env.example a .env
 
